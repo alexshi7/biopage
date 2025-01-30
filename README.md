@@ -1,6 +1,6 @@
 # Project 1
 
-## Project Document Summary
+## Project Requirements
 
 Be sure to read thoroughly and follow carefully all the requirements and steps in each of the project documents.
 
