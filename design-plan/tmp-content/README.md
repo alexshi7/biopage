@@ -6,7 +6,9 @@ Text should be written and stored as Markdown files in the "content" folder. (Th
 
 Media (i.e. images) content should also be stored in the "m1-content" folder.
 
-Home Page:
+
+
+## Home Page:
 
 Welcome to Alex Shi's Ithaca Website!
 
@@ -30,10 +32,21 @@ and here are some things I am looking forward to this semester:
 
 Be sure to check out the food I've eaten, nature I've seen, and classes I've taken!
 
-Restaurants Tab:
+## Food Tab:
+
+Being in Ithaca, I've also been able experience a great range of foods. Whether it's the surprise in the wonderful dining halls or nice restaurants tucked away in the commons to easy, quick bites in the bustling Collegetown, my stomach has been satisfied.
+
+Here are some restaurants I've enjoyed:
+
+- FICCC: my church has some great food!
+- Morrison Dining Hall: My Dorm and local dining hall
+- Cafes on campus: Great variety and quick bites
+- Taste of Thai: Favorite Date night spot for my girlfriend and I
+- Asian Chili Spot: My favorite Takeout in Collegetown
+- Mia's Restaurant: a great vast menu for tapas and sit down vibes
 
 
-Courses Tab:
+## Courses Tab:
 
 Here are the courses I've taken at Cornell:
 
@@ -66,13 +79,8 @@ SOPHOMORE Spring:
 - AEM 2210
 
 
-Nature Tab:
+## Nature Tab:
 
 Since coming to Ithaca, I've had a unique opportunity to connect with nature.
 
 I've been able to catch fish in Beebe Lake, watch meteor showers over a frozen Cayuga Lake, witness an Aurora Borealis, visit Buttermilk Falls State Park, and go Gorge swimming in Second Dam.
-
-
-Food Page:
-
-Being in Ithaca, I've also been able experience a great range of foods. Whether it's the surprise in the wonderful dining halls or nice restaurants tucked away in the commons to easy, quick bites in the bustling Collegetown, my stomach has been satisfied.
