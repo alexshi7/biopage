@@ -14,25 +14,11 @@ Place all design journey images inside the "design-plan" folder and then link th
 
 ## Markdown Instructions
 
-**TODO: delete this section before submission.**
-
-This is a Markdown file. All written documents that you will submit this semester will be Markdown files. Markdown is a commonly used format by developers and bloggers. It's something that you should know. Learning it is a learning objective of this course.
-
-**Please use the official [Markdown Reference Documentation](https://commonmark.org/help/) if you aren't sure how to "code" Markdown.**
-
-This is an example for inserting images into Markdown:
-
-![](example-sketch.png)
-
-**TODO: delete this section before submission.**
-
 
 ## Website Topic
 > Briefly explain what your website will be about. Share your vision of your personal website. (1 sentence)
->
-> Example: (TODO: delete this) My website will be about the Grassroots festival in Trumansburg NY.
 
-TODO: tell us about your website
+ My website will document my time in Ithaca, discussing classes, restaurants, and activities.
 
 
 ## Personal Website Design Exploration
@@ -46,69 +32,68 @@ Include a **mobile** screenshot of the home page for each site. (If you're takin
 
 ### Personal Website 1 Review
 
-> TODO: This example shows how to include a screenshot. Remove this example in your submission.
+
 > Note: **You may not use the instructors' websites for this part.**
->
-> <https://kharms.infosci.cornell.edu/>   ← TODO: put the URL between < and >
->
-> ![](example-site.png)   ← TODO: put the screenshot filename in the parentheses
 
-<TODO: website url>
+<https://www.lisakaltenegger.com/>
 
-![](TODO: mobile screenshot path)
+![](lisa1.png)
+
+![](lisa2.png)
 
 - Who do you think this site is designed for? Who is its intended audience?
 
-    TODO: (1 sentence)
+    I think this website was designed for those interested in Professor Lisa Kaltenegger's work. It was intended for people already familiar with her research and instead wanted to see what she was currently up to.
 
 - What **goals** do you think the audience likely has when visiting this site.
 
-    TODO: (1-2 sentences)
+    Get an idea as to what upcoming seminars she has, what recent talks she has gone on. They can catch up on all her newest postings, including lectures, articles, etc.
 
 - What **content** is included in this personal website?
 
-    TODO: (1-2 sentences)
+    This personal website displays all of Lisa's past research, her current classes taught, books she's written, and media content that she is creating. Additionally it has all of her contact information and past works.
 
 - Do you believe the content likely **addresses** the goals of the site's audience?
 
-    TODO: (1 sentence)
+    Yes, this website is sorted into very specific headers, so that all the different kinds of work that Lisa has done is distributed across more accessible and understandable divisions. This allows peers and fans to find the specific work they are looking for.
 
 - What do you like about the design?
 
-    TODO: (1-2 sentences)
+    I like how professional and detailed the design is. The specificity and descriptive nature of each tab allows for the content to be grouped in a high level so that there is less ambiguity for the website viewer.
 
 
 ### Personal Website 2 Review
 
-<TODO: website url>
+<https://hankgreen.com/>
 
-![](TODO: mobile screenshot path)
+![](hank1.png)
+![](hank2.png)
 
 - Who do you think this site is designed for? Who is its intended audience?
 
-    TODO: (1 sentence)
+    This website was intended for fans of Hank Green and customers.
 
 - What **goals** do you think the audience likely has when visiting this site.
 
-    TODO: (1-2 sentences)
+    To find out when Hank's next book is coming out, or when his next show is. This website is up to date with all content and ideas from Hank Green.
 
 - What **content** is included in this personal website?
 
-    TODO: (1-2 sentences)
+    Information about Hank Green's book releases, Hank Green shows, current works, and past works. Additionally, has miscellanious silly content here and there.
 
 - Do you believe the content likely **addresses** the goals of the site's audience?
 
-    TODO: (1 sentence)
+    Yes. This website has a great approach the embodies Hank Green's attitude, and conveys all the necessary information about his biography, his books, and his events.
 
 - What do you like about the design?
 
-    TODO: (1-2 sentences)
+    I love how this website is just uniquely Hank Green. The website colors, design, font, and layout all seem to resonate with the values and behaviors of Hank Green, showing how personal and planned out it was.
 
 
 ## Audience
 > Briefly explain who the intended audience is for your website. (1 sentence)
 
-TODO: site's audience
+My site's intended audience would be my friends/family that are interested in my time at the Cornell/Ithaca area.
 
 
 ## Audience Goals
@@ -116,11 +101,11 @@ TODO: site's audience
 >
 > Identify at least 3 goals that your users have for visiting your website.
 
-1. TODO: (1 sentence)
+1. to see what classes I've taken at Cornell
 
-2. TODO: (1 sentence)
+2. To see the restaurants I've eaten at in the Ithaca area
 
-3. TODO: (1 sentence)
+3. To see what I do for fun/see what I have upcoming
 
 
 ## Audience Reflection
@@ -131,7 +116,7 @@ TODO: site's audience
 >
 > Explain why your audience is a cohesive group of people with uniform goals. (1-2 sentences)
 
-TODO: audience rationale
+My audience would be loved ones who have a genuine care for my day to day activities at Cornell. These are friends far away or family members who love to see my joys and want to keep in touch with me. These people would all be excited to see the hard classes I take or the delicious foods I eat while I am away so we can talk about them the next time we catch up.
 
 
 ## Content Reflection
@@ -139,9 +124,10 @@ TODO: audience rationale
 > Review your audience's goals.
 > Identify the content your audience would need to achieve their goals.
 
-- TODO: content description 1
-- TODO: content description 2
-- TODO: content description 3
+- The audience would need to see the exciting events in my life
+- The audience would need to see the classes I take per semester
+- The audience would need to see the next times I return home
+- The audience would benefit from seeing all my upcoming milestones
 - ...
 
 
@@ -160,27 +146,31 @@ TODO: audience rationale
 >
 > You should list all types of content you planned to include (i.e. text, photos, images, etc.)
 
-- TODO: content description 1
-- TODO: content description 2
-- TODO: content description 3
-- ...
+- I would like to have a headshot/or just a candid picture of me
+- All my course schedules
+- my opinion on each course I've taken
+- All the restaurants I've eaten at in the past few years in Ithaca
+- Things I have scheduled to look forward to
+- Major achievements I've accomplished while at Cornell
+- Unique phenomenon (like eclipses, meteor showers, etc) I've witnessed at Cornell
+
 
 
 ## Content Justification
 > Explain why this content is the right content for your site's audience and how the content addresses their goals.
 > (2-4 sentences)
 
-TODO: justify your content decisions
+Having these things on my page are all necessary in giving unique and fresh updates to my friends and family. Things that they know I enjoy, such as food and nature, allow my personality to shine through and allow them to feel my presence. Additionally, for my parents and friends closely invested in academia, seeing the classes I take would be a refreshing reminder of the strength of Cornell's education. Seeing all the interesting and diverse content give my friends and family new talking points and things to update about when we meet again.
 
 
 ## Home Page Content
 > What is the content that your users would expect when visiting your site for the first time.
 > **List** what content you will include on the homepage.
 
-- TODO: homepage content description 1
-- TODO: homepage content description 2
-- TODO: homepage content description 3
-- ...
+- A candid picture of myself
+- a brief biography of whatever I am up to in that semester/time of year
+- things I want to accomplish by a certain deadline
+
 
 
 ## References
@@ -188,8 +178,7 @@ TODO: justify your content decisions
 ### Collaborators
 > List any persons you collaborated with on this project.
 
-TODO: list your collaborators
-
+No colaborators
 
 ### Reference Resources
 > Did you use any resources not provided by this class to help you complete this assignment?
@@ -198,7 +187,8 @@ TODO: list your collaborators
 > List **all** resources you used (websites, articles, books, etc.), including generative AI.
 > Provide the URL to the resources you used and include a short description of how you used each resource.
 
-TODO: list reference resources
+Hank Green's Website <https://hankgreen.com/>. I used it to inspire my design
 
+Lisa Kaltenegger's Website. I used it to inspire my own webiste. <https://www.lisakaltenegger.com/>
 
 [← Table of Contents](design-journey.md)
