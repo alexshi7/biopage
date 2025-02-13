@@ -70,9 +70,8 @@ no collaborators
 
 ### Reference Resources
 
-I used w3school to help me with the formatting of the HTML, https://www.w3schools.com/html/
+I used w3school to help me with the formatting of the HTML and learning footers, https://www.w3schools.com/html/
 
 https://chat.com
 
 I used ChatGPT to help beef up my content and help me research information about specifiv weather phenomenon, restaurants in Ithaca, and classes offered at Cornell.
-TODO: list reference resources
