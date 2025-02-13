@@ -15,7 +15,7 @@ Place all design journey images inside the "design-plan" folder and then link th
 > Explain what you revised in response to the Milestone 1 feedback (1-2 sentences)
 > If you didn't make any revisions, explain why.
 
-TODO: milestone 1 feedback revisions
+In my feedback, I was told my text content was not sufficient enough for 3-5 pages worth of text. So  I revised my text content to be more thorough and hit the goal of being sufficient for the rubric outline.
 
 
 ## Information Architecture
@@ -30,46 +30,49 @@ You may change your homepage content based on your card sorting. If you do chang
 > Include photographic evidence of each iteration of card sorting **and** description of your thought process for each iteration. (1-2 sentences)
 > Please physically sort cards; please don't do this digitally.
 
-TODO: photos and explanations of each iteration
+![](wbinfo2.jpg)
+
+ I made pages and grouped content based on the type of content on each page. So I had less pages, and had a page dedicated with just facts, just photos, and just things about myself. This would mean the pictures tab was just all pictures, nature, food, etc and the facts would be all facts, food facts, nature facts, me facts, courses facts. This felt too overwhelming as the pictures tab would be all pictures and the facts would be all text. While very organized in principle, the grouping of content would be spread out across 3 pages. Say someone wanted to see all my restaurant information, then they would have to open 3 pages just to get the whole understanding on restaurants.
+
+![](wbinfo1.jpg)
+
+This iteration i was inspired by Hank Green (one of my website page inspos). This way seems more tedious for me, in that I would have to group content by the theme of the content (all the food together on one page, all the nature, etc). However, this seemed like the way to go as each page had less sticky notes per page, making it more viewable, and the stickynotes all related directly and can work together on the same page.
 
 
 ### Final Content Organization
 > Which iteration of card sorting will you use for your website? (1 sentence)
 
-TODO: tell us which iteration of card sorting you plan to use.
+the second Iteration , grouping based on theme as it was less cluttered.
 
 > Explain how the final organization of content is appropriate for your site's audiences. (1-2 sentences)
 
-TODO: why does this organization make sense for your audience (not you)?
+Now, this way if an audience member wanted to see what Classes I was taking, they only had to open one page, versuses in iteration 1, they would have to find the information across two pages.
 
 
 ### Navigation
 > Please list the pages you will include in your website's navigation.
 
-- TODO: page 1
-- TODO: page 2
-- TODO: page 3
-- ...
+- page 1: home
+- page 2: food
+- page 3: courses
+- page 4: nature
 
 > Explain why the names of these pages make sense for your site's audience. (1-2 sentences)
-
-TODO: explain why the pages name make sense to the audience.
-
+Each page name has the direct context of what the page is about. If my mom wanted to just see the food I was eating, she can find all the info on the food tab, Whereas my dad would probably just want to see the classes I was taking, which is all conveniently located in the courses.
 
 ## References
 
 ### Collaborators
-> List any persons you collaborated with on this project.
 
-TODO: list your collaborators
+
+no collaborators
 
 
 ### Reference Resources
-> Did you use any resources not provided by this class to help you complete this assignment?
-> List any external resources you referenced in the creation of your project. (i.e. W3Schools, StackOverflow, Mozilla, etc.)
->
-> List **all** resources you used (websites, articles, books, etc.), including generative AI.
-> Provide the URL to the resources you used and include a short description of how you used each resource.
 
+I used w3school to help me with the formatting of the HTML, https://www.w3schools.com/html/
+
+https://chat.com
+
+I used ChatGPT to help beef up my content and help me research information about specifiv weather phenomenon, restaurants in Ithaca, and classes offered at Cornell.
 TODO: list reference resources
-
