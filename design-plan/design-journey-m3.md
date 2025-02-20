@@ -178,3 +178,5 @@ i used w3 schools for help with linking the styles to html
 https://www.w3schools.com/css/default.asp
 
 I asked chatgpt to help refresh my memory on how to format the sections for revisions, chat.com
+
+I used chatgpt to help with the linking of the styles to the html homepage
