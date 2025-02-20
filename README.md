@@ -7,7 +7,7 @@ Be sure to read thoroughly and follow carefully all the requirements and steps i
 - Review the [Project 1 > Overview & Requirements Document](https://github.coecis.cornell.edu/info1300-spring25/info1300-2025sp-resources/blob/main/assignments/project1/project1.md)
 - [Project 1 > Milestone 1](https://github.coecis.cornell.edu/info1300-spring25/info1300-2025sp-resources/blob/main/assignments/project1/p1-milestone-1.md)
 - [Project 1 > Milestone 2](https://github.coecis.cornell.edu/info1300-spring25/info1300-2025sp-resources/blob/main/assignments/project1/p1-milestone-2.md)
-- Project 1 > Milestone 3
+- [Project 1 > Milestone 3](https://github.coecis.cornell.edu/info1300-spring25/info1300-2025sp-resources/blob/main/assignments/project1/p1-milestone-3.md)
 - Project 1 > Final Deliverable
 
 ## Deadlines
