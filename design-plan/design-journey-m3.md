@@ -180,3 +180,4 @@ https://www.w3schools.com/css/default.asp
 I asked chatgpt to help refresh my memory on how to format the sections for revisions, chat.com
 
 I used chatgpt to help with the linking of the styles to the html homepage
+I used w3schools and the sylabus to find citation guides
