@@ -15,7 +15,7 @@ Place all design journey images inside the **`design-plan`** folder and then lin
 > Explain what you revised in response to the Milestone 2 feedback (1-2 sentences)
 > If you didn't make any revisions, explain why.
 
-TODO: milestone 2 feedback revisions
+I lost points for lack of citations, lack of indentations, and therefore an invalid document. I was also suggested to use sectoins and add more content to index.html. So my changes were I added more content to index.html, used sections, and added citations.
 
 
 ## Example Website CSS Property Analysis
@@ -28,109 +28,139 @@ For each example website you identified in milestone 1:
 
 ### Example Website 1 CSS Property Analysis
 
-<TODO: website url>
+<https://www.lisakaltenegger.com/>
 
-![](TODO: screenshot path from milestone 1)
+![](lisa1.png)
 
-1. TODO: describe a portion of the website you want to analyze (e.g. the "second paragraph" or "sidebar".)
+![](lisa3.png)
+
+1. I like the Contact button
+
+    Shape CSS Properties:
+    border-width: var(--primary-button-stroke);
+    padding: var(--primary-button-padding-y) var(--primary-button-padding-x);
+
+    here are the variable values
+        --primaryButtonPadding: 1.2em;
+    --primary-button-padding-x: 2.004em;
+    --primary-button-padding-y: 1.2em;
+    --primary-button-stroke: 2px;
+
+
+
+    Color CSS Properties:
+
+    color: var(--primaryButtonBackgroundColor);
+    border-color: var(--primaryButtonBackgroundColor);
+
+    both were black
+
+
+    Typography CSS Properties:
+
+      - font-weight: var(--header-button-font-font-weight);
+      - font-size: calc((var(--header-button-font-font-size-value) - 1)* 1.2vw + 1rem);
+
+
+2.  I like the second paragraph
 
     Shape CSS Properties:
 
-      - TODO: shape property 1 (e.g. `border-radius`)
-      - TODO: shape property 2
+      -     display: block;
+    - margin-block-start: 1em;
+   -  margin-block-end: 1em;
+
       - ...
 
     Color CSS Properties:
 
-      - TODO: color property 1 (e.g. `background-color`)
-      - TODO: color property 2
+     color: black;
+      background-color: white;
 
     Typography CSS Properties:
 
-      - TODO: typography property 1 (e.g. `font-weight`)
-      - TODO: typography property 2
-      - ...
+- font-family: var(--body-font-font-family);
+      font-style: italic;
 
-2. TODO: describe a portion of the website you want to analyze (e.g. the "second paragraph" or "sidebar".)
+  here are those values:
 
-    Shape CSS Properties:
-
-      - TODO: shape property 1
-      - TODO: shape property 2
-      - ...
-
-    Color CSS Properties:
-
-      - TODO: color property 1
-      - TODO: color property 2
-
-    Typography CSS Properties:
-
-      - TODO: typography property 1
-      - TODO: typography property 2
-      - ...
+    --body-font-font-family: adobe-garamond-pro;
+    --body-font-font-style: normal;
+    --body-font-font-weight: 300;
 
 
 ### Example Website 2 CSS Property Analysis
 
-<TODO: website url>
+<https://hankgreen.com/>
 
-![](TODO: screenshot path from milestone 1)
+![](hank1.png)
+![](hank2.png)
 
-1. TODO: describe a portion of the website you want to analyze (e.g. the "second paragraph" or "sidebar".)
 
-    Shape CSS Properties:
-
-      - TODO: shape property 1
-      - TODO: shape property 2
-      - ...
-
-    Color CSS Properties:
-
-      - TODO: color property 1
-      - TODO: color property 2
-
-    Typography CSS Properties:
-
-      - TODO: typography property 1
-      - TODO: typography property 2
-      - ...
-
-2. TODO: describe a portion of the website you want to analyze (e.g. the "second paragraph" or "sidebar".)
+1. I like the dual color and font of the title
 
     Shape CSS Properties:
 
-      - TODO: shape property 1
-      - TODO: shape property 2
+    - margin-block-start: 1em;
+   -  margin-block-end: 1em;
 
     Color CSS Properties:
 
-      - TODO: color property 1
-      - TODO: color property 2
-      - ...
+      -    color: #006ba3;
+      - color: #333;
+      - two tone title
 
     Typography CSS Properties:
 
-      - TODO: typography property 1
-      - TODO: typography property 2
-      - ...
+      - font-size: 6rem;
+      font-family: "Source Serif Pro", sans-serif;
+    font-weight: 400;
+
+2. i like how the nav bar words look
+
+    Shape CSS Properties:
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+
+    Color CSS Properties:
+
+      -     background-color: #fff;
+      - color: #444;
+
+
+    Typography CSS Properties:
+
+      -     font-family: "Source Sans Pro", sans-serif;
+      - font-weight: 400;
+      - font-style: normal;
 
 
 ## CSS Styling Plan
 > Pick one of the examples websites, or parts from each website, to use as inspiration to begin styling your personal website.
 > Explain why you chose the example website, or parts from each, and how you plan to use it as inspiration for styling your personal website.
 
-TODO: Which example website, or which parts from each website, did you choose (1-2 sentences)
+I chose the hank green website. The elements are easier to read, as they don't use variables like the lisakaltenegger website does. I also liked the simplistic colors and fonts, so I plan to use hank green as inspriation for my text and headers.
 
 TODO: Why did you choose this example website, or parts from each website? How do you plan to use it as inspiration for styling your personal website? (1-2 sentences)
 
+I really like how simplistic the colors are on hank green's website, often having two colors as he puts text on two different lines. I will use this for my headers as well. Bonus: he also uses cool hexcodes (i.e. 333, 444, etc) that I find charming.
+
 
 ## References
+<https://hankgreen.com/>
+<https://lisakaltenegger.com/>
+https://www.w3schools.com/css/default.asp
 
 ### Collaborators
 > List any persons you collaborated with on this project.
 
-TODO: list your collaborators
+no one
 
 
 ### Reference Resources
@@ -140,5 +170,11 @@ TODO: list your collaborators
 > List **all** resources you used (websites, articles, books, etc.), including generative AI.
 > Provide the URL to the resources you used and include a short description of how you used each resource.
 
-TODO: list reference resources
 
+I wanted to use the Lab4 as the inspiration for the css elements. I also like the coloring and shaping from lab4
+
+i used w3 schools for help with linking the styles to html
+
+https://www.w3schools.com/css/default.asp
+
+I asked chatgpt to help refresh my memory on how to format the sections for revisions, chat.com
