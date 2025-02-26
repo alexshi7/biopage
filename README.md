@@ -8,7 +8,7 @@ Be sure to read thoroughly and follow carefully all the requirements and steps i
 - [Project 1 > Milestone 1](https://github.coecis.cornell.edu/info1300-spring25/info1300-2025sp-resources/blob/main/assignments/project1/p1-milestone-1.md)
 - [Project 1 > Milestone 2](https://github.coecis.cornell.edu/info1300-spring25/info1300-2025sp-resources/blob/main/assignments/project1/p1-milestone-2.md)
 - [Project 1 > Milestone 3](https://github.coecis.cornell.edu/info1300-spring25/info1300-2025sp-resources/blob/main/assignments/project1/p1-milestone-3.md)
-- Project 1 > Final Deliverable
+- [Project 1 > Final Deliverable](https://github.coecis.cornell.edu/info1300-spring25/info1300-2025sp-resources/blob/main/assignments/project1/p1-milestone-final.md)
 
 ## Deadlines
 
@@ -26,6 +26,10 @@ This is a 4 week project with milestone deliverables due every week for the firs
 - [MDN HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [MDN CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Markdown Reference Documentation](https://commonmark.org/help/)
+- [Course Flexbox How To Guide](https://github.coecis.cornell.edu/info1300-spring25/info1300-2025sp-resources/blob/main/resources/flexbox-how-to-guide.pdf)
+- [CSS-Tricks Flexbox Layout Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [MND Flexbox Guide](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Flexbox)
+
 
 ## Submission Instructions
 
