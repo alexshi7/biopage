@@ -93,7 +93,15 @@ Sketch two utilizes side by side layout more, espectially for pitures. I find th
 > Include a sketch for each of the remaining pages of your website.
 > Label each sketch, so that we understand what page we are reviewing. (1 short phrase per sketch)
 
-TODO: site sketches
+Here is a sketch of the food tab. I utilize a layout of horizontal flexbox.
+![](sketch3.jpg)
+
+Here is a sketch of courses tab, very similar to the Home tab.
+![](sketch4.jpg)
+
+Here is a sketch of nature tab, very similar to the other tabs.
+![](sketch5.jpg)
+
 
 
 ### Static Website Design Check
@@ -102,21 +110,23 @@ TODO: site sketches
 > Examples of dynamic behavior are dropdown menus, hamburger menus, popups, modals/lightboxes, image carousels, etc.
 > Audit your design and check that you aren't relying on any dynamic features. (1 sentence)
 
-TODO: Explain why your site's design is completely static and lacks any dynamic behavior.
+There are no interaactive elements in this website, only links to redirect when clicked. Otherwise, no dropdowns, etc.
 
 
 ## Self-Reflection
 > Take some time here to reflect on how much you've learned since you started this class. It's often easy to ignore our own progress. Take a moment and think about your accomplishments in this class. Hopefully you'll recognize that you've accomplished a lot and that you should be very proud of those accomplishments!
 
-TODO: reflection
+I'm really happy with the progress I've made. I used to do a lot of web design, but now having learned styling, something I thought was a chore, I realized how convenient and safe it can handle different website elements. My websites have a lot more customizability now that I've learned CSS.
 
 
 ## References
 
+<https://www.w3schools.com/css/css_padding.asp>
+<https://www.w3schools.com/css/css_max-width.asp>
+
 ### Collaborators
 > List any persons you collaborated with on this project.
-
-TODO: list your collaborators
+no outside collaborators
 
 
 ### Reference Resources
@@ -126,4 +136,13 @@ TODO: list your collaborators
 > List **all** resources you used (websites, articles, books, etc.), including generative AI.
 > Provide the URL to the resources you used and include a short description of how you used each resource.
 
-TODO: list reference resources
+<https://www.w3schools.com/css/css_padding.asp>
+was very helpful, allowed me to understand the usage of padding. vs margins.
+<https://www.w3schools.com/css/css_max-width.asp>,
+I learned the difference between width and max width.
+
+Chat.com
+I used chatGPT to help give suggestions on how resolve an issue where my captions weren't following the images once I added the images to a 3 image flexbox. The solution was suggested to just create a threebox for captions as well.
+
+Chat.com
+ChatGPT gave me a suggestion on how to center my images.
