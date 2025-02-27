@@ -13,7 +13,7 @@ Place all design journey images inside the "design-plan" folder and then link th
 > Explain what you revised in response to the Milestone 3 feedback (1-2 sentences)
 > If you didn't make any revisions, explain why.
 
-I didn't lose any points, so I didn't revise anything due to the rubric; I had excellent Feedback. However, I added more content to my courses.html, I felt it was a little bare and didn't want to risk it.
+I didn't lose any points, so I didn't revise anything due to the rubric; I had excellent Feedback. However, I added more content to my courses.html, I felt it was a little bare and didn't want to risk it. I also went ahead and resized all my images to be less than 1 mb.
 
 
 ## Example Website Emotion Analysis
@@ -26,34 +26,37 @@ For each example website you identified in milestone 1:
 
 ### Example Website 1
 > Provide the website's URL and a screenshot
+<https://www.lisakaltenegger.com/>
 
-<TODO: website url>
+![](lisa1.png)
 
-![](TODO: screenshot path from milestone 1)
+![](lisa2.png)
 
 > What emotions do you feel when you look at this website's design? (1 sentence)
 
-TODO: emotion reflection
+I feel a sense of mystique and awe, the use of spacious text and studious fonts make the site seem more intellectual and informative.
+
 
 > How does this website's use of color, decorative imagery, typography, shape, and alignment contribute to these emotions? (2-3 sentences)
 
-TODO: design analysis
+the cool colors, the gothic/studious fonts, and the spacious layout make it all seem meticulously placed. Everything seems to be very calm and yet stoic, nothing too cute, makes the website mature.
 
 
 ### Example Website 2
 > Provide the website's URL and a screenshot
 
-<TODO: website url>
+<https://hankgreen.com/>
 
-![](TODO: screenshot path from milestone 1)
+![](hank1.png)
+![](hank2.png)
+
 
 > What emotions do you feel when you look at this website's design? (1 sentence)
-
-TODO: emotion reflection
+This website seems more jolly, and easy going.
 
 > How does this website's use of color, decorative imagery, typography, shape, and alignment contribute to these emotions? (2-3 sentences)
 
-TODO: design analysis
+The amount of free space, casual/rounded fonts, and the light pastel coloring helps contribute to a sense of easy going and calmness. It makes the website seem peaceful and leisurely, there's no sharp edges.
 
 
 ## Website Design
@@ -61,26 +64,30 @@ TODO: design analysis
 ### Emotion Reflection
 > What emotions would you like the visitors of your website to experience? Why? (1-2 sentences)
 
-TODO: emotion reflection
+I'd like to create a leisurely, homely feeling. I don't want my website to feel like a chore/hostile, I want it to be welcoming so people feel relaxed and inclined to stay longer.
 
 
 ### Design Principle Brainstorm
 > Reflect on how you might use color, decorative imagery, typography, shape, and alignment to evoke these emotions. (2-3 sentences)
 
-TODO: design brainstorm
+I would use softer fonts, less boxy elements, and cool colors that are pastel shadded. I wouldn't want to add anything too harsh on the eyes.
 
 
 ### Home Page Sketches
 > Sketch **two** different possible designs for your home page.
 > Provide an explanation for each sketch explaining the idea. (1 sentence per sketch)
 
-TODO: home page sketches
+![](sketch1.jpg)
+![](sketch2.jpg)
 
+
+
+Sketch two utilizes side by side layout more, espectially for pitures. I find that in sketch 1, which more of a just section on section on section design, I prefer the efficiency of space from sketch2.
 
 ### Entire Website's Design
 > Pick the version of the home page that you will use for your final design.
 
-TODO: include one of the sketches from above.
+![](sketch2.jpg)
 
 > Plan the design for the rest of your website.
 > Include a sketch for each of the remaining pages of your website.
