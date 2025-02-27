@@ -13,7 +13,7 @@ Place all design journey images inside the "design-plan" folder and then link th
 > Explain what you revised in response to the Milestone 3 feedback (1-2 sentences)
 > If you didn't make any revisions, explain why.
 
-TODO: milestone 3 feedback revisions
+I didn't lose any points, so I didn't revise anything due to the rubric; I had excellent Feedback. However, I added more content to my courses.html, I felt it was a little bare and didn't want to risk it.
 
 
 ## Example Website Emotion Analysis
@@ -120,5 +120,3 @@ TODO: list your collaborators
 > Provide the URL to the resources you used and include a short description of how you used each resource.
 
 TODO: list reference resources
-
-
